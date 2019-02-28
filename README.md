@@ -7,5 +7,5 @@ Additional files coming step by step
 Probably some notebook formats too to use the whole system in colab.research.google.com  (keras, GPU)
 
 
-
+Resources: 
 
