@@ -4,7 +4,7 @@ Check RLDataExample now, just format and features of the written datafiles with 
 
 Additional files coming step by step
 
-Probably some notebook formats too to use the whole system in collab.google.com  (keras, GPU)
+Probably some notebook formats too to use the whole system in colab.research.google.com  (keras, GPU)
 
 
 
