@@ -9,3 +9,5 @@ Probably some notebook formats too to use the whole system in colab.research.goo
 
 Resources: 
 
+ALL the UPDATES are going to be at different location: see PVoodoo
+
