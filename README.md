@@ -1,4 +1,4 @@
-"# RLDQTrading" 
+## RLDQTrading 
 
 Check RLDataExample now, just format and features of the written datafiles with MLWriteRLTrainData
 
@@ -10,4 +10,5 @@ Probably some notebook formats too to use the whole system in colab.research.goo
 Resources: 
 
 ALL the UPDATES are going to be at different location: see PVoodoo
+https://github.com/PVoodoo/RLDQTrading
 
